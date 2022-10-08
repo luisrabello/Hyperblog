@@ -20,3 +20,14 @@ body
 {
     font-size: 20px;
 }
+#cabecera
+{
+    background-color: blue;
+    box-shadow: 0px 2px 20px blueviolet;
+    color: antiquewhite;
+    font-size: 20px;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1cm;
+}
