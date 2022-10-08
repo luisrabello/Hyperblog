@@ -2,8 +2,8 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
     margin: 0;
     padding: 0;
     font-size: 16px;
